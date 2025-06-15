@@ -10,4 +10,4 @@ Le dépôt contient une [[file:LO.md][version française]] et une [[file:open-li
 
 * Auteur
 
-Etalab/DINSIC 2019.
+Etalab/DINSIC 2019
